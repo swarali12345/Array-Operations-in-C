@@ -21,5 +21,5 @@ This repository contains a collection of basic array operations implemented in C
 
 ## 🛠 Language
 - C Programming Language
-- 
+  
 Happy coding! 😊
